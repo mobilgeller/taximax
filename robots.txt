@@ -1,0 +1,6 @@
+﻿User-agent: *
+Allow: /
+Disallow: /cgi-bin/
+Disallow: /private/
+
+Sitemap: https://taximax.hu/sitemap.xml
